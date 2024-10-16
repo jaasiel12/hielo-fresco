@@ -1,0 +1,28 @@
+body {
+    background-color: #d8d8d8f7;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.list-group{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.carrusel{
+    width: 500px;
+}
+
+bg-custom-blue{
+    background-color: rgba(96, 226, 255, 0.615);
+}
